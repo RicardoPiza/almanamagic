@@ -49,7 +49,7 @@
             ?>
                 <script>
                     window.alert("Card already registered");
-                    window.location.href = "./search-results.php?name=fire";
+                    window.location.href = "./search-results.php?name=all";
                 </script>
         <?php
             }
